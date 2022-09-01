@@ -1,1 +1,1 @@
- a command that lists all the files
+ a magic file school.mgc
