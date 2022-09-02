@@ -1,1 +1,1 @@
-ript that creates a directory called my_dir with permissions 751
+script that changes the group owner
