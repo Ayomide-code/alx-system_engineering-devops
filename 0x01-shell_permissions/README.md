@@ -1,1 +1,1 @@
- script that changes the owner to vincent 
+script that changes the owner and the group
