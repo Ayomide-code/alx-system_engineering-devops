@@ -1,1 +1,1 @@
-display first 10 lines
+l script that creates a file named exactly.
